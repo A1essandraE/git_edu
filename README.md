@@ -1,1 +1,2 @@
-"# hw_sem_2" 
+" git_edu
+
